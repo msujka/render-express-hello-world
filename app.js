@@ -63,9 +63,9 @@ const html = `
     <section>
       Hello from Michal!
     </section>
-    <section>
+    <p>
         <a href="https://www.michalsujka.com">Welcome to my online home.</a>
-    </section>
+    </p>
   </body>
 </html>
 `
