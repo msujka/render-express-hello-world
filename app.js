@@ -21,7 +21,6 @@ const html = `
 <html>
   <head>
     <title>Hello from Michal!</title>
-    <a href="https://www.michalsujka.com">Welcome to my online home.</a>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
@@ -62,7 +61,10 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello from Michal!
+    </section>
+    <section>
+        <a href="https://www.michalsujka.com">Welcome to my online home.</a>
     </section>
   </body>
 </html>
